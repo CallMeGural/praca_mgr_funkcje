@@ -1,0 +1,8 @@
+pl\gornickifilip\postsfunction\LocalDateTimeTypeAdapter.class
+pl\gornickifilip\postsfunction\Comment.class
+pl\gornickifilip\postsfunction\PostsFunctionApplication.class
+pl\gornickifilip\postsfunction\Post.class
+pl\gornickifilip\postsfunction\Comment$CommentBuilder.class
+pl\gornickifilip\postsfunction\Post$PostBuilder.class
+pl\gornickifilip\postsfunction\GsonConfig.class
+pl\gornickifilip\postsfunction\PostRepository.class

@@ -1,0 +1,6 @@
+pl\gornickifilip\loginfunction\SecurityConfig.class
+pl\gornickifilip\loginfunction\User$UserBuilder.class
+pl\gornickifilip\loginfunction\UserRepository.class
+pl\gornickifilip\loginfunction\LoginFunctionApplication.class
+pl\gornickifilip\loginfunction\AuthRequest.class
+pl\gornickifilip\loginfunction\User.class
